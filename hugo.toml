@@ -1,0 +1,4 @@
+baseURL = 'https://fortrancon.org/'
+languageCode = 'en-us'
+title = 'FortranCon'
+theme = 'ananke'
