@@ -9,3 +9,13 @@ sectionPagesMenu = 'main'
   ignoreConfig = false
   ignoreImports = false
   path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+[params]
+[params.ananke.social.youtube]
+  username = "fortrancon"
+
+[params.ananke.social.follow]
+new_window_icon = false
+networks = [
+  "youtube",
+]
